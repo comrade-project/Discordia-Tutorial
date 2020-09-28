@@ -1,6 +1,6 @@
 # Embeds and events
 
-This tutorial assumes that you have followed part 1, [Simple bot](./simple.md)
+This tutorial assumes that you have followed part 1, [Simple bot](./02-embed-events.md)
 
 ## Embeds
 
