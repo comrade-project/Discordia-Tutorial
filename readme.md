@@ -1,6 +1,6 @@
 # Discordia Tutorial
 
-This tutorial series goes over making a bot using [Harmonia](https://github.com/harmonia-project/Harmonia), a helper library.
+This tutorial series goes over making a bot using [Comrade](https://github.com/comrade-project/Comrade), a helper library.
 
 ## Tutorials
 
